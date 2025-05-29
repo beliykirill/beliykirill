@@ -24,10 +24,9 @@ You can find some of them pinned below ⬇️
 
 ## 📫 Contact
 
-- Portfolio: [your-portfolio.com]  
-- LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)  
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- LinkedIn: [linkedin.com/in/kirill-shevchenko-frontend](https://linkedin.com/in/kirill-shevchenko-frontend)  
+- Telegram: [t.me/shevwork](https://t.me/shevwork)
 
 ---
 
-> “Simplicity is the soul of efficiency.” – Austin Freeman
+> “Simplicity is the soul of efficiency.” - Austin Freeman
