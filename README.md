@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Kirill 👋
 
-<!--
-**beliykirill/beliykirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building clean, performant, and intuitive web applications.  
+Focused on modern technologies like **Next.js**, **TypeScript**, and **styled-components**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+- **Frameworks**: Next.js, React
+- **Languages**: TypeScript, JavaScript
+- **Styling**: styled-components, Tailwind CSS
+- **Drag & Drop**: dnd-kit
+- **Tools**: Git, GitHub, Figma, Vercel
+
+---
+
+## 📂 Projects
+
+I enjoy building side projects that solve real problems or explore new technologies.  
+You can find some of them pinned below ⬇️
+
+---
+
+## 📫 Contact
+
+- Portfolio: [your-portfolio.com]  
+- LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)  
+- GitHub: [github.com/your-username](https://github.com/your-username)
+
+---
+
+> “Simplicity is the soul of efficiency.” – Austin Freeman
