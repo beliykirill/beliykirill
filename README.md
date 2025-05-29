@@ -26,8 +26,8 @@ I’m always learning, always improving — and I believe the best products come
 
 ## 📫 Contact
 
-- LinkedIn: [linkedin.com/in/kirill-shevchenko-frontend](https://linkedin.com/in/kirill-shevchenko-frontend)  
-- Telegram: [t.me/shevwork](https://t.me/shevwork)
+- [LinkedIn](https://linkedin.com/in/kirill-shevchenko-frontend)  
+- [Telegram](https://t.me/shevwork)
 
 ---
 
