@@ -28,6 +28,7 @@ Always learning, always refining - I value simplicity, curiosity, and thoughtful
 
 - [LinkedIn](https://linkedin.com/in/kirill-shevchenko-frontend)  
 - [Telegram](https://t.me/shevwork)
+- [YouTube](https://www.youtube.com/@shevdev)
 
 ---
 
