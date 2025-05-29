@@ -1,13 +1,13 @@
 # Kirill Shevchenko – Frontend Developer 👋
 
-Frontend Developer with a passion for clean architecture, performance, and thoughtful user experience.  
-I love turning ideas into responsive, accessible, and visually refined interfaces — the kind people genuinely enjoy using.
+Frontend Developer focused on clean architecture, performance, and user-friendly interfaces.  
+I enjoy turning ideas into accessible, responsive, and polished web experiences.
 
-Over the years, I’ve worked on a wide range of projects across industries like iGaming, EdTech, mobile apps, CRM systems, game development, and early-stage startups.  
-This diverse background taught me to adapt quickly, stay flexible, and deliver high-quality solutions tailored to different users and business goals.
+I’ve worked on projects in iGaming, EdTech, mobile apps, CRM systems, Game dev, and early-stage startups - 
+this gave me adaptability and a strong product sense.
 
-Outside of coding, I recharge through movement — hiking, training, and spending time outdoors help me stay focused and balanced.  
-I’m always learning, always improving — and I believe the best products come from a mix of curiosity, simplicity, and solid execution.
+Outside of tech, I recharge through hiking, training, and traveling.  
+Always learning, always refining - I value simplicity, curiosity, and thoughtful execution.
 
 ---
 
