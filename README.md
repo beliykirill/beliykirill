@@ -13,7 +13,7 @@ Always learning, always refining - I value simplicity, curiosity, and thoughtful
 
 ## 🧰 Tech Stack & Tools
 
-- React, Next.js, Redux, React Query  
+- React, React Native, Next.js, Redux, React Query  
 - TypeScript, JavaScript, HTML5
 - styled-components, Tailwind CSS, CSS3, Sass  
 - Git, GitHub, CI/CD  
